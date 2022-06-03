@@ -1,0 +1,1 @@
+Pequeno trecho de código que cria parágrafos ao clicar nos botões da tela. Foram usadas as tecnologias HTML5 e JavaScript.
